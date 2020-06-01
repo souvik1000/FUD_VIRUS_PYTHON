@@ -1,0 +1,25 @@
+https://www.oreilly.com/library/view/python-cookbook/0596001673/ch06s09.html		== About instance app creation
+
+https://pymotw.com/2/subprocess/							== Subprocess.Popen Details
+
+http://timgolden.me.uk/pywin32-docs/contents.html					== pywin32 Documentaion
+
+https://www.thepythoncode.com/article/create-reverse-shell-python			== Basic code on Revrshell-Shell-TCP
+
+https://www.virustotal.com/								== Scan Virus File
+
+https://github.com/nikhiljainjain/REVERSE-Shell-TCP/actions/new				== Basic code on Revrshell-Shell-TCP
+
+https://www.geeksforgeeks.org/socket-programming-python/				== Socket Programming Concept
+
+https://automatetheboringstuff.com/chapter8/						== OS.PATH
+
+https://youtu.be/t51bT7WbeCM								== PyInstaller Details
+
+
+-- These links are very useful. It helps me to make this project easier. I'm very much thankful to them for providing important
+document through its content.
+
+Thank You,
+Souvik Ghosh
+
